@@ -1,0 +1,124 @@
+{
+  "students": [
+    {
+      "firstname": "John",
+      "lastname": "Doe",
+      "group": "Group A",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Jane",
+      "lastname": "Smith",
+      "group": "Group B"
+    },
+    {
+      "id": "3",
+      "firstname": "Michael",
+      "lastname": "Johnson",
+      "group": "Group C"
+    },
+    {
+      "id": "4",
+      "firstname": "Emily",
+      "lastname": "Davis",
+      "group": "Group C"
+    },
+    {
+      "id": "5",
+      "firstname": "William",
+      "lastname": "Brown",
+      "group": "Group B"
+    },
+    {
+      "firstname": "Emma",
+      "lastname": "Miller",
+      "group": "Group A",
+      "id": "6"
+    },
+    {
+      "id": "7",
+      "firstname": "James",
+      "lastname": "Wilson",
+      "group": "Group A"
+    },
+    {
+      "id": "8",
+      "firstname": "Olivia",
+      "lastname": "Moore",
+      "group": "Group B"
+    },
+    {
+      "id": "9",
+      "firstname": "Benjamin",
+      "lastname": "Taylor",
+      "group": "Group C"
+    },
+    {
+      "id": "10",
+      "firstname": "Ava",
+      "lastname": "Anderson",
+      "group": "Group A"
+    },
+    {
+      "id": "11",
+      "firstname": "Liam",
+      "lastname": "Thomas",
+      "group": "Group B"
+    },
+    {
+      "id": "12",
+      "firstname": "Sophia",
+      "lastname": "Jackson",
+      "group": "Group C"
+    },
+    {
+      "id": "13",
+      "firstname": "Mason",
+      "lastname": "White",
+      "group": "Group A"
+    },
+    {
+      "id": "14",
+      "firstname": "Isabella",
+      "lastname": "Harris",
+      "group": "Group B"
+    },
+    {
+      "id": "15",
+      "firstname": "Ethan",
+      "lastname": "Martin",
+      "group": "Group C"
+    },
+    {
+      "id": "16",
+      "firstname": "Mia",
+      "lastname": "Thompson",
+      "group": "Group A"
+    },
+    {
+      "id": "17",
+      "firstname": "Alexander",
+      "lastname": "Garcia",
+      "group": "Group B"
+    },
+    {
+      "id": "18",
+      "firstname": "Amelia",
+      "lastname": "Martinez",
+      "group": "Group C"
+    },
+    {
+      "id": "19",
+      "firstname": "Jacob",
+      "lastname": "Robinson",
+      "group": "Group A"
+    },
+    {
+      "id": "20",
+      "firstname": "Charlotte",
+      "lastname": "Clark",
+      "group": "Group B"
+    }
+  ]
+}
